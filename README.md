@@ -1,15 +1,16 @@
 # About Me:
-
-Hi, I'm Ayaulym —
-19 yo Frontend dev
-Streamlit | Angular | Python
+---
+Hi, I'm Ayaulym — <br/>
+19 yo Frontend dev <br/>
+Streamlit | Angular | Python | React
 
 ### 🌐 Socials:
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaulym-oishy-1828ab356/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaulymojsy@gmai.com)
 
 ### 💻 Tech Stack:
-
+---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
